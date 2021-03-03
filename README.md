@@ -1,4 +1,4 @@
-# Check out the final product here! --> https://facebook-clone-5d09e.web.app/
+# Check out the deployed website here --> https://facebook-clone-5d09e.web.app/
 
 
 ---------------------------------------------------------------------------------------------------
